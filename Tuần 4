@@ -1,0 +1,23 @@
+# Tuần 4
+
+**Thời gian:** 26/01/2026 – 30/01/2026
+
+## Nội dung thực tập
+
+* Thiết kế giao diện cho ứng dụng mobile bằng reac native
+* Thực hiện kết nối Mobile App với Backend thông qua các RESTful API đã xây dựng
+* Thực hiện kiểm thử các luồng nghiệp vụ chính (End-to-End) dựa trên kịch bản thực tế để đảm bảo tính đúng đắn của logic
+* Sử dụng công cụ Debug (React Native Debugger/Flipper) để phân tích nguyên nhân các lỗi phát sinh
+* Phối hợp cùng Mentor (anh Bùi Đình Đạt) để tối ưu hóa hiệu suất và fix các lỗi liên quan đến trạng thái ứng dụng (State Management)
+* Cập nhật tài liệu kỹ thuật, sơ đồ luồng dữ liệu sau khi điều chỉnh tính năng để phù hợp với thực tế triển khai
+* Sử dụng Postman để test API trước khi đưa vào code React Native.
+
+
+## Kết quả đạt được
+
+* Hoàn thành kết nối Frontend và Backend, đảm bảo dữ liệu hiển thị chính xác và thời gian phản hồi tối ưu
+* Phát hiện và xử lý kịp thời các lỗi logic phức tạp liên quan đến xác thực (Login) và xử lý dữ liệu từ API
+* Nâng cao tư duy phân tích lỗi hệ thống, biết cách đặt Breakpoint và kiểm tra Log để tìm ra gốc rễ vấn đề 
+* Cải thiện chất lượng sản phẩm
+* Hình thành thói quen làm việc chuyên nghiệp
+* Nắm vững cách quản lý Global State (Redux/Context API) và vòng đời của Component (Hooks) trong React Native.
