@@ -1,0 +1,25 @@
+# Tuần 7
+
+**Thời gian:** 23/02/2026 – 28/02/2026
+
+## Nội dung thực tập
+
+* Nghiên cứu và triển khai Gemini API để xây dựng trợ lý ảo thông minh trên Mobile App, hỗ trợ giải đáp thắc mắc của khách hàng và tư vấn thực đơn tự động
+* Kiểm tra toàn bộ luồng nghiệp vụ (End-to-End) từ đặt món, thanh toán đến chat realtime để xử lý các lỗi phát sinh cuối cùng
+* Rà soát cơ chế phân quyền qua Middleware và thực hiện ẩn/mã hóa các API Key nhạy cảm (Firebase, Gemini API, Backend).
+* Tinh chỉnh giao diện, thêm các hiệu ứng chuyển trang (Transitions) và thông báo (Toast messages) để hệ thống chuyên nghiệp hơn
+* Soạn thảo tài liệu hướng dẫn cài đặt hệ thống với Docker và tài liệu hướng dẫn sử dụng cho nhân viên nhà hàng
+* Rà soát lại việc phân quyền Middleware và bảo mật API Key của Firebase/Backend
+* Tự đánh giá kết quả thực tập và chuẩn bị báo cáo tổng kết dự án
+
+
+
+## Kết quả đạt được
+
+* Xây dựng thành công hệ thống quản lý "DucToan Restaurant" hoạt động ổn định, đáp ứng đầy đủ các yêu cầu về nghiệp vụ nhà hàng và tính năng chat realtime
+* Xây dựng thành công hệ thống "DucToan Restaurant" hoạt động ổn định trên cả Web và Mobile, tích hợp thành công Chatbot AI (Gemini) giúp nâng tầm trải nghiệm khách hàng
+* Hệ thống được đóng gói hoàn chỉnh bằng Docker, mã nguồn được tổ chức khoa học, dễ dàng triển khai và mở rộng trong tương lai
+* Hoàn thành bộ tài liệu hướng dẫn chi tiết (README, API Docs), giúp việc bàn giao dự án trở nên thuận tiện
+* Hiểu rõ quy trình vận hành thực tế của một ứng dụng web hiện đại
+* Nắm vững quy trình phát triển sản phẩm thực tế, từ việc lên ý tưởng, thiết kế Database, lập trình Fullstack cho đến triển khai DevOps và tích hợp AI.
+
