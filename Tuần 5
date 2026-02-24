@@ -1,0 +1,23 @@
+# Tuần 5
+
+**Thời gian:** 2/02/2026 – 06/02/2026
+
+## Nội dung thực tập
+
+* Tìm hiểu next.js và thiết ké giao diện web bằng next.js
+* Thực hiện kết nối Web với Backend thông qua các RESTful API đã xây dựng
+* Đã thực hiện lưu trữ và quản lý Token (JWT) trong LocalStorage để duy trì đăng nhập
+* Sử dụng Middleware trong Next.js để phân quyền truy cập các trang (Protected Routes)
+* Tìm hiểu Firebase và Cloud Firestore
+* Xây dựng chức năng chat của khách hàng tới nhân viên nhà hàng và ngược lại
+
+
+## Kết quả đạt được
+
+* Sử dụng thành thạo thư viện Axios hoặc Fetch API để thực hiện các yêu cầu HTTP (GET, POST, PUT, DELETE) tới Backend
+* Xây dựng cấu trúc quản lý API tập trung (API Services/Clients) giúp mã nguồn dễ bảo trì và tái sử dụng
+* Xử lý thành công việc hiển thị dữ liệu từ database lên giao diện và gửi dữ liệu từ form về phía server
+* Quản lý tốt các trạng thái phản hồi từ API (loading, success, error) và xử lý lỗi phía client-side.
+* Nghiên cứu và tích hợp thành công Firebase SDK và Cloud Firestore vào dự án 
+* Xây dựng hoàn thiện chức năng Chat Realtime: Cho phép nhắn tin hai chiều tức thời giữa khách hàng và nhân viên nhà hàng với độ trễ thấp
+* Quản lý cấu trúc dữ liệu tin nhắn trên Firestore tối ưu để truy xuất nhanh và theo dõi lịch sử trò chuyện.
