@@ -8,7 +8,12 @@
 * Tìm hiểu về JavaSpringBoot, Spring Security
 * Xây dựng tài liệu HLD
 * Thiết kế các bảng dữ liệu database
+* Điều chỉnh các bảng trong database
 
 ## Kết quả đạt được
 
 * Hoàn thành tài liệu HLD
+* Hiểu cách chuyển yêu cầu nghiệp vụ thành chức năng kỹ thuật
+* Nắm được cách tổ chức các bảng trong database
+* Nắm vững cấu trúc project Spring Boot và luồng xử lý của Spring Security (Filter Chain, Authentication, Authorization)
+* Làm quen với quy trình phát triển phần mềm thực tế và cách làm việc cùng người hướng dẫn.
