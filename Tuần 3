@@ -1,0 +1,21 @@
+# Tuần 3
+
+**Thời gian:** 19/01/2026 – 23/01/2026
+
+## Nội dung thực tập
+
+* Thiết kế phân quyền người dùng
+* Xây dựng các API cho các tính năng cốt lõi, tuân thủ chuẩn RESTful API
+* Kiểm soát dữ liệu đâu vào từ phía người dùng
+* Tìm hiểu và áp dụng các nguyên tắc bảo mật cơ bản (chống SQL Injection, XSS, CSRF)
+* Ghi nhận các lỗi logic thông thường
+* Phối hợp với người hướng dẫn để rà soát mã nguồn, tối ưu hóa thuật toán và sửa các lỗi phát sinh trong quá trình triển khai.
+
+
+## Kết quả đạt được
+
+* Thiết lập hệ thống phân quyền chặt chẽ; đảm bảo người dùng chỉ có thể truy cập và thao tác trên các tài nguyên được cho phép.
+* Kiểm soát tốt đầu vào giúp giảm thiểu 80-90% các lỗi logic do dữ liệu sai định dạng, đồng thời ngăn chặn các cuộc tấn công cơ bản vào hệ thống.
+* Thành thạo cách sử dụng các Annotation trong Spring (như @PreAuthorize, @Valid, @RestControllerAdvice)
+* Hiểu rõ luồng đi của dữ liệu từ Request -> Controller -> Service -> Repository.
+* Mã nguồn được tối ưu theo hướng dễ bảo trì (Clean Code), giảm thiểu các lỗi tiềm ẩn thông qua quá trình Debug và Review cùng Mentor.
