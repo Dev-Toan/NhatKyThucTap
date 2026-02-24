@@ -1,0 +1,24 @@
+# Tuần 6
+
+**Thời gian:** 09/02/2026 – 13/02/2026
+
+## Nội dung thực tập
+
+* Tìm hiểu cách viết Dockerfile tối ưu cho Next.js (Sử dụng Multi-stage build để giảm dung lượng image)
+* Nắm vững kiến thức cơ bản về Docker, Dockerfile và Docker Compose để đóng gói ứng dụng Next.js và Backend
+* Sử dụng Docker Compose để khởi chạy đồng thời các service: Frontend, Java Spring Boot Backend và PostgreSQL.
+* Theo dõi hiệu năng và ổn định hệ thống
+* Tối ưu tài nguyên và cấu trúc code
+* Thực hiện sao lưu dữ liệu cơ bản
+* Kiểm tra độ trễ (Latency) của chức năng Chat Realtime trên Firebase khi chạy trong môi trường container.
+
+
+## Kết quả đạt được
+
+* Nắm vững kiến thức cơ bản về Docker, Dockerfile và Docker Compose để đóng gói ứng dụng Next.js và Backend
+* Xây dựng thành công các Docker Image tối ưu, giúp đồng nhất môi trường phát triển (Development) và môi trường triển khai (Production), giảm thiểu lỗi "works on my machine"
+* Thiết lập hệ thống Multi-container (Frontend, Backend, Database) hoạt động ổn định thông qua Docker Compose
+* Thực hiện Refactor code (tái cấu trúc) theo các nguyên lý Clean Code, giúp mã nguồn dễ đọc và bảo trì hơn
+* Tối ưu hóa tài nguyên Frontend (Next.js) thông qua việc kiểm soát kích thước bundle, lazy loading các component không cần thiết ngay lập tức
+* Cải thiện hiệu suất truy vấn Database bằng cách rà soát và tối ưu các câu lệnh SQL/PostgreSQL trong Backend
+* Kiểm soát độ ổn định của ứng dụng khi xử lý các luồng dữ liệu thời gian thực từ Firebase và kết nối RESTful API.
